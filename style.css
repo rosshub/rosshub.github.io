@@ -1,0 +1,59 @@
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: lavender;
+    min-height: 100%;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.main {
+    text-align: center;
+    position: fixed;
+    height: 200px;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}
+
+hr {
+    color: black;
+    border-top: 2px solid black;
+}
+
+.meat {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.header {
+font-family: 'Rubik', sans-serif;
+}
+
+.title {
+    font-size: 43px;
+    line-height: 20px;
+}
+
+.icons {
+    display: inline-block;
+}
+
+#spotify,
+#linkedin,
+#email
+{
+    width: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+        margin-top: 12px;
+}
+
+
